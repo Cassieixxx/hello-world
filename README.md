@@ -1,2 +1,5 @@
 # hello-world
-A first repository
+
+Hello Humans!
+
+This is Cassieixxx, see you then!
